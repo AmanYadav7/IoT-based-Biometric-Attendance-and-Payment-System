@@ -1,4 +1,4 @@
-# IoT-Based-Biometric-Attendace-with-Payment-System
+# IoT-based-Biometric-Attendance-and-Payment-System
 The physical attendance and payment system procured issues like ghost workers, fake attendance records, payout fraud, etc. Our IoT-based Biometric attendance and payment system will take attendance on-site and ensure a reduction in delays in payments and efficiency in payments. Our system consists of a fingerprint sensor(R307) which is used to scan the fingerprint of the individual, and then we will register the individual’s fingerprint and store their data securely. After that, when the individual comes to work, the entry time and the exit time of the worker will be updated and recorded. Then it automatically calculates how much money we have to pay to that individual based on the work duration calculated.
 
 **Video link:** https://drive.google.com/file/d/1dYuG79Kxy0J4bwxyNBhLq-eaQcXQX9_Q/view?usp=share_link
