@@ -14,11 +14,11 @@ The physical attendance and payment system procured issues like ghost workers, f
 1. NodeMCU ESP8266
 2. Fingerprint scanner (R307)
 3. Jumper wires
-4. 4. LED lights(RGBY)
+4. LED lights(RGBY)
 
 ## Software prerequisite
-1. Install Arduiono IDE
-2. Google spread sheet
+1. Install Arduino IDE
+2. Google Sheets
 3. Pushingbox API
 
 ## Work Flow Chart
